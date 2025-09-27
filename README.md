@@ -10,3 +10,11 @@ Profile
 ![profile](public/profile.png)
 Logout
 ![Logout](public/logout.png)
+Check on website
+![alt text](public/web-dk.png)
+Check database
+![alt text](public/check-db.png)
+Login
+![alt text](public/login-website.png)
+Profile
+![alt text](public/profile-web.png)
